@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <!-- Text to display in the list when there are no news [CHAR LIMIT=NONE] -->
+    <string name="no_news">No news available.</string>
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">News Settings</string>
+
+    <string name="pick_category1">News category</string>
+    <string name="pick_category2">Choose from news category</string>
+
+    //news category for array list
+    <string name="all">All news</string>
+    <string name="business">Business</string>
+    <string name="law">Law</string>
+    <string name="football">Football</string>
+    <string name="fashion">Fashion</string>
+
+</resources>
